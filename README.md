@@ -13,5 +13,8 @@ Scripts my friends and I made for VASP calculations.
 
   Pull out key parameters and results from a VASP calculation
 
-  
+* frac.py
+
+  Converts Cartesian to fractional coordinates; tests for unit cell inclusion.
+
   
